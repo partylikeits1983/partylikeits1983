@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 You can reach me at: [@alexanderjohnlee](https://t.me/alexanderjohnlee)
+- 🌐 My Website / Blog: [alexanderjohnlee.com](alexanderjohnlee.com)
 - 👤 My LinkedIn profile: [Alexander John Lee](https://www.linkedin.com/in/alexander-john-lee/)
 
 ---
