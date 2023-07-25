@@ -30,5 +30,5 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=partylikeits1983&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
   <br/>
-  <strong> Note: </strong> The streak only takes into account my public contributions on GitHub, and therefore is not an accurate metric of how often I write code.
+  <strong> Note: </strong> The streak only takes into account my public contributions on GitHub (I also push code to GitLab), and therefore is not an accurate metric of how often I write code.
 </p>
